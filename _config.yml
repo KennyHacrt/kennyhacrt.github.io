@@ -23,13 +23,13 @@ repository               : "KennyHacrt/kennyhacrt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ming Hin, Lee"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lee.mh.kenny@gmail.com" 
 
   # Academic websites
   academia         : # URL
