@@ -17,6 +17,10 @@ Awards & Scholarships
 ======
 * Chiyu Tan Kah Kee FinTech Scholarship 2024/25
 
+Certificates
+======
+
+
 Skills
 ======
 * Skill 1
