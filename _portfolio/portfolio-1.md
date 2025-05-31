@@ -1,6 +1,6 @@
 ---
 title: "Predictive Maintenance for Industrial Equipment"
-excerpt: "a system that uses sensor data to predict failures in industrial equipment, reducing downtime and maintenance costs.<br/><img src='/images/500x300.png'>"
+excerpt: "A system that uses sensor data to predict failures in industrial equipment, reducing downtime and maintenance costs.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
