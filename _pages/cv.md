@@ -24,11 +24,11 @@ Certificates
 ======
 * AWS Certified AI Practitioner
   
-& others listed in [LinkedIn](https://www.linkedin.com/in/ming-hin-lee-31a10331b/)
+& others listed on [LinkedIn](https://www.linkedin.com/in/ming-hin-lee-31a10331b/)
 
 
 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* STEM Education Service Learning in Taiwan, Hong Kong PolyU, July 2025 (expected)
