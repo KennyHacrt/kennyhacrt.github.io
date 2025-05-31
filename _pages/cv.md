@@ -17,6 +17,8 @@ Education
 Awards & Scholarships
 ======
 * Chiyu Tan Kah Kee FinTech Scholarship, May ‘25.
+* Silver Award, China mainland,Hong Kong And Macao Digital Economy Innovation And Entrepreneurship Competition 2025, April ‘25.
+
 
 Certificates
 ======
