@@ -16,7 +16,7 @@ Education
 
 Awards & Scholarships
 ======
-* Chiyu Tan Kah Kee FinTech Scholarship, Mae ‘25.
+* Chiyu Tan Kah Kee FinTech Scholarship, May ‘25.
 
 Certificates
 ======
