@@ -16,11 +16,12 @@ Education
 
 Awards & Scholarships
 ======
-* Chiyu Tan Kah Kee FinTech Scholarship 2024/25
+* Chiyu Tan Kah Kee FinTech Scholarship, Mae ‘25.
 
 Certificates
 ======
-
+* AWS Certified AI Practitioner 
+& others listed in [LinkedIn](https://www.linkedin.com/in/ming-hin-lee-31a10331b/)
 
 Skills
 ======
