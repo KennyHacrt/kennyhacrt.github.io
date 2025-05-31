@@ -1,5 +1,5 @@
 ---
-title: "Predictive Maintenance for Industrial Equipment"
+title: "[Predictive Maintenance for Industrial Equipment](https://github.com/KennyHacrt/Predictive-Maintenance-for-Industrial-Equipment-)"
 excerpt: "A system that uses sensor data to predict failures in industrial equipment, reducing downtime and maintenance costs.<br/><img src='/images/POSTER.png'>"
 collection: portfolio
 ---
