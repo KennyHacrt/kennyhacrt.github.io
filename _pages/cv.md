@@ -13,23 +13,10 @@ Education
 ======
 * B.Sc. (Hons.) in Financial Technology and Artificial Intelligence, Hong Kong Polytechnic University, 2027. (expected)
 
-Work experience
+Awards & Scholarships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
