@@ -16,6 +16,7 @@ Education
 
 Awards & Scholarships
 ======
+* HKSAR Government Reaching Out Award, Jun ‘25.
 * Chiyu Tan Kah Kee FinTech Scholarship, May ‘25.
 * Silver Award, China mainland,Hong Kong And Macao Digital Economy Innovation And Entrepreneurship Competition 2025, April ‘25.
 
