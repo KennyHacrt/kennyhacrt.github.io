@@ -36,4 +36,4 @@ Certificates
   
 Service and leadership
 ======
-* STEM Education Service Learning in Taiwan, Hong Kong PolyU, July 2025 (expected)
+* STEM Education Service Learning in Taiwan, Hong Kong PolyU, July 2025 
