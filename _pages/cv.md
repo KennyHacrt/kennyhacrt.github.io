@@ -16,6 +16,9 @@ Education
 
 Awards & Scholarships
 ======
+* GEO Scholarship, Aug ‘25.
+* Wong Tit-shing Student Exchange Scholarship, Aug ‘25.
+* Fung Scholarship, Jul ‘25.
 * HKSAR Government Reaching Out Award, Jun ‘25.
 * Chiyu Tan Kah Kee FinTech Scholarship, May ‘25.
 * Silver Award, China mainland,Hong Kong And Macao Digital Economy Innovation And Entrepreneurship Competition 2025, April ‘25.
