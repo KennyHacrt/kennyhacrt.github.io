@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.Sc. (Hons.) in Financial Technology and Artificial Intelligence, Hong Kong Polytechnic University, 2027. (expected)
-* Exchange Programme in Artificial Intelligence, Fudan University, Shanghai, 2025/2026 semester 1. (expected)
-* One-week Maths Summer Programme at Cambridge University (Girton College) 2025
+* Exchange Programme in Artificial Intelligence, Fudan University, Shanghai, 2025/2026 semester 1. 
+* One-week Maths Summer Programme at Cambridge University (Girton College) 2025.
 
 Awards & Scholarships
 ======
