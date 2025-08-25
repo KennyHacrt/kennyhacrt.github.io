@@ -17,6 +17,7 @@ Education
 
 Awards & Scholarships
 ======
+* Merit, International Competition on Artificial Intelligence in Education 2025, Aug ‘25.
 * GEO Scholarship, Aug ‘25.
 * Wong Tit-shing Student Exchange Scholarship, Aug ‘25.
 * Fung Scholarship, Jul ‘25.
